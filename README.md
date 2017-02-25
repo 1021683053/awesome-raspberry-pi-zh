@@ -14,6 +14,7 @@
 *  [系统镜像](#os-images)
 *  [工具](#tools)
 *  [项目](#projects)
+*  [无线网卡](#usbwifi)
 *  [资源](#resources)
 
 <h2 id="os-images">系统镜像</h2>
@@ -96,6 +97,11 @@
 - [Pi-hole](https://pi-hole.net/) - 为互联网广告准备的黑洞.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - 用nodejs写的Slack机器人-- 帮助解决"我们该吃什么"
 - [Sonus](https://github.com/evancohen/sonus) - 开源、跨平台的语音识别框架（Google Cloud Speech）
+
+<h2 id="usbwifi">无线网卡</h2>
+
+- CF-WU810N - 芯片：RTL-8818eus（免驱）
+- TP-LINK-WN725N - 芯片：RTL-8818eu（免驱）
 
 <h2 id="resources">资源</h2>
 
