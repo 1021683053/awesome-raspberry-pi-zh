@@ -1,7 +1,7 @@
 #  树莓派(Raspberry Pi)资源大全中文版
 Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
 
-![Logo](./logo.svg?=200x200)
+![Logo-](./logo.svg)
 
 [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) 是由 thibmaek 发起维护的 树莓派 资源列表，内容包括树莓派的工具、项目、镜像、资源、社区。
 
@@ -45,7 +45,7 @@ Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
 - [OctoPi](https://octopi.octoprint.org/) - 为3d打印机准备的发行版.
 - [Kano OS](http://developers.kano.me/downloads/) - 为探索、创造和玩耍准备准备的开源操作系统 – 对树莓派免费.
 - [resinOS](https://resinos.io) - 在嵌入式设备中跑docker容器的开源操作系统, 考虑了生产环境所需的可靠性
-- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+-32px.png =16)
+- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+-32px.png)
 
 
 <h2 id="tools">工具</h2>
