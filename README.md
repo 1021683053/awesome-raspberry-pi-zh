@@ -100,6 +100,7 @@
 <h2 id="resources">资源</h2>
 
 ### 文章
+- [树莓派无线网卡选择](http://www.cnblogs.com/sjqlwy/p/5003436.html) - 树莓派网卡选择
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - 本文介绍树莓派以及能用它做些什么
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - 十种给树莓派供电的方法.
 
