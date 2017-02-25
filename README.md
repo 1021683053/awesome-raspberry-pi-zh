@@ -1,6 +1,6 @@
 #  树莓派(Raspberry Pi)资源大全中文版
 
-![](/logo.png)
+[![logo](/logo.png)](https://www.raspberrypi.org/)
 
 #### Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
 
@@ -46,7 +46,13 @@
 - [OctoPi](https://octopi.octoprint.org/) - 为3d打印机准备的发行版.
 - [Kano OS](http://developers.kano.me/downloads/) - 为探索、创造和玩耍准备准备的开源操作系统 – 对树莓派免费.
 - [resinOS](https://resinos.io) - 在嵌入式设备中跑docker容器的开源操作系统, 考虑了生产环境所需的可靠性
-- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+-32px.png)
+- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Lede](https://lede-project.org/toh/views/toh_fwdownload) - 基于Openwrt一个分支，打造，树莓派路由器
+- [Openwrt](https://downloads.openwrt.org/barrier_breaker/14.07/brcm2708/generic/) - Openwrt树莓派官方镜像 ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Android-rpi3](https://sourceforge.net/projects/android-rpi3/) - 树莓派3 安装Android TV系统 ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [OpenMediaVault](https://sourceforge.net/projects/openmediavault/files/Raspberry%20Pi%20images/) - 树莓派 OpenMediaVault （OMV）系统镜像
+- [Flintos](https://flintos.com/download/) - 基于Chrome的操作及系统
+
 
 
 <h2 id="tools">工具</h2>
@@ -59,9 +65,12 @@
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - 用于构建树莓派官方镜像的工具. 你可以将其用于构建自己的定制镜像（预装特定软件）
 - [PiVPN](http://www.pivpn.io/) - 简单、灵活的单行安装脚本，用于在树莓派上安装OpenVPN服务
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 配置Pi0，使其可以在wifi网络里扫描，发现谁是"home"
+- [Raspberry Pi Emulator](https://sourceforge.net/projects/raspberrypiemulator/) - 树莓派模拟器 for Mac
+- [Raspberry Pi Emulator on Windows](https://xbu.me/emulating-raspberry-pi-with-qemu/) - 树莓派模拟器 for Windows
 
 <h2 id="projects">项目</h2>
 
+- [Appifi](http://bbs.wisnuc.com/forum.php?mod=viewthread&tid=14428&extra=page%3D1) - 国产开源NAS系统树莓派安装
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D打印的迷你MIDI控制器
 - [Power Sniffing Strip](https://gnurds.com/index.php/2012/10/02/raspberry-pi-power-strip/) - 藏在电源插座里的树莓派, 用于嗅探网络数据.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - 跑在树莓派2代上的Erlang集群
@@ -110,6 +119,8 @@
 
 
 ## 社区
+- [Nxez](http://shumeipai.nxez.com/) 中文社区
+- [shumeipai.net](http://www.shumeipai.net/forum.php) 中文社区
 - [Official Forum](https://www.raspberrypi.org/forums/)
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
@@ -117,11 +128,6 @@
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [eLinux Hub](http://elinux.org/RPi_Hub)
-
-
-### 贡献
-可以在这里找到贡献指南：TODO
-
 
 ### 协议
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
