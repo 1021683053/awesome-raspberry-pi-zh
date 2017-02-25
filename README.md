@@ -55,7 +55,7 @@
 - [Flintos](https://flintos.com/download/) - 基于Chrome的操作及系统
 - [PiCorePlayer](https://sites.google.com/site/picoreplayer/home) - 树莓派网络音乐播放器
 - [Wifi Router](https://ronnyvdbr.github.io/) - 树莓派，非Openwrt内核的路由器系统
-- [](http://googlecreativelab.github.io/coder/) - 编程学习的有趣项目
+- [Coder](http://googlecreativelab.github.io/coder/) - 编程学习的有趣项目
 
 
 
