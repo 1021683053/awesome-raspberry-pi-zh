@@ -1,21 +1,13 @@
 #  树莓派(Raspberry Pi)资源大全中文版
-Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)  
+Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
+
+![Logo](./logo.svg?=200x200)
 
 [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) 是由 thibmaek 发起维护的 树莓派 资源列表，内容包括树莓派的工具、项目、镜像、资源、社区。
 
-近期我正好在折腾树莓派，觉得资源列表上有很多好玩的项目，遂决定译个中文版本，之后会根据我个人的使用情况添加更详细的注脚，也欢迎国内的树莓派爱好者一起来维护这个列表
+[awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) 源中文项目 （由于本人改动过大，没有进行Fork，Push Request）
 
-
-
-## 项目的参与者
-
--  Todo：
-  -  [ ] 添加国内开发者有趣的项目
-
-
-## 项目的参与者
-Todo
-
+刚接触树莓派的人，包括自己用于记忆树莓派资源，方便以后查找欢迎大家进行查阅，梳理。此项目包含大多数自己使用过的系统，与国内系统。弥补了前两者仓库的不足。
 
 ## 目录
 *  [系统镜像](#os-images)
@@ -53,7 +45,7 @@ Todo
 - [OctoPi](https://octopi.octoprint.org/) - 为3d打印机准备的发行版.
 - [Kano OS](http://developers.kano.me/downloads/) - 为探索、创造和玩耍准备准备的开源操作系统 – 对树莓派免费.
 - [resinOS](https://resinos.io) - 在嵌入式设备中跑docker容器的开源操作系统, 考虑了生产环境所需的可靠性
-- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) ![Supports Raspberry Pi 2+](/media/badges/rpi-2+-32px.png =16)
 
 
 <h2 id="tools">工具</h2>
@@ -132,8 +124,3 @@ Todo
 
 ### 协议
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-
-
-
