@@ -21,6 +21,7 @@
 
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - 来自树莓派官方的操作系统，基于Debian，同时提供一个精简版
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - 新的开箱即用软件, 为初学者准备的系统安装工具.
+- [DietPi](https://github.com/Fourdee/DietPi) -  集成大部分你需要的程序或者服务，带有许多可配置项和脚本.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - 为树莓派准备的Ubuntu发行版，基于MATE桌面环境. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/raspberry-pi-2/) - 为物联网准备的Ubuntu官方最小发行版 ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Windows 10 IoT Core](https://developer.microsoft.com/nl-nl/windows/iot/Downloads.htm) - 为物联网准备的Windows 10发行版. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -37,9 +38,8 @@
 - [Volumio](https://volumio.org/) - 高保真音乐播放器
 - [Recalbox](https://www.recalbox.com) - 更轻巧的复古游戏和媒体中心
 - [Lakka](http://lakka.tv) - 在树莓派上玩复古游戏，完全基于RetroArch构建.
-- [RasPlex](http://www.rasplex.com/) - 为树莓派准备的Plex客户端.
+- [RasPlex](http://www.rasplex.com/) - 为树莓派准备的Plex客户端（媒体中心，播放器，直播）.
 - [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - 可直接引导到全屏Chrome的镜像，非常适合用于仪表板和构建监视器。 ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [DietPi](https://github.com/Fourdee/DietPi) -  为2G SD卡准备的最小镜像， 带有许多可配置项和脚本.
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - 运行在树莓派上的CentOS. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [Minibian](https://minibianpi.wordpress.com/) - 最小的 Raspbian (比 Jessie Lite还要轻量).
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - 系统启动加载器(Bootloader) /通用操作系统安装程序 , 支持 VNC 和 HDMI-CEC.
@@ -53,6 +53,9 @@
 - [Android-rpi3](https://sourceforge.net/projects/android-rpi3/) - 树莓派3 安装Android TV系统 ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 - [OpenMediaVault](https://sourceforge.net/projects/openmediavault/files/Raspberry%20Pi%20images/) - 树莓派 OpenMediaVault （OMV）系统镜像
 - [Flintos](https://flintos.com/download/) - 基于Chrome的操作及系统
+- [PiCorePlayer](https://sites.google.com/site/picoreplayer/home) - 树莓派网络音乐播放器
+- [Wifi Router](https://ronnyvdbr.github.io/) - 树莓派，非Openwrt内核的路由器系统
+- [](http://googlecreativelab.github.io/coder/) - 编程学习的有趣项目
 
 
 
@@ -68,6 +71,7 @@
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 配置Pi0，使其可以在wifi网络里扫描，发现谁是"home"
 - [Raspberry Pi Emulator](https://sourceforge.net/projects/raspberrypiemulator/) - 树莓派模拟器 for Mac
 - [Raspberry Pi Emulator on Windows](https://xbu.me/emulating-raspberry-pi-with-qemu/) - 树莓派模拟器 for Windows
+- [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 一个简单的桥接工具，网线转无线
 
 <h2 id="projects">项目</h2>
 
@@ -97,7 +101,10 @@
 - [Pi-hole](https://pi-hole.net/) - 为互联网广告准备的黑洞.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - 用nodejs写的Slack机器人-- 帮助解决"我们该吃什么"
 - [Sonus](https://github.com/evancohen/sonus) - 开源、跨平台的语音识别框架（Google Cloud Speech）
-
+- [Poisontap](https://github.com/samyk/poisontap) - 网络劫持，将内部路由器暴露给攻击者，Node.js开发的多功能网络工具
+- [Cylonjs](https://cylonjs.com/) - JavaScript/Node.js 机器人听从你的命令
+- [Gobot](https://gobot.io/) - Go语言机器人
+-
 <h2 id="usbwifi">无线网卡</h2>
 
 - CF-WU810N - 芯片：RTL-8818eus（免驱）
