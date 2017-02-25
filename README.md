@@ -1,7 +1,8 @@
 #  树莓派(Raspberry Pi)资源大全中文版
-Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
 
 ![](/logo.png)
+
+#### Github上著名的Awesome - XXX 系列，怎能少了树莓派 :)
 
 [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) 是由 thibmaek 发起维护的 树莓派 资源列表，内容包括树莓派的工具、项目、镜像、资源、社区。
 
