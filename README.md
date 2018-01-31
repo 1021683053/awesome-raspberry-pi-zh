@@ -56,6 +56,12 @@
 - [PiCorePlayer](https://sites.google.com/site/picoreplayer/home) - 树莓派网络音乐播放器
 - [Wifi Router](https://ronnyvdbr.github.io/) - 树莓派，非Openwrt内核的路由器系统
 - [Coder](http://googlecreativelab.github.io/coder/) - 编程学习的有趣项目
+- [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - 数字高清视频传输
+- [DroneBridge](https://github.com/seeul8er/DroneBridge) - 一个WifiBroadcast扩展，可替代大疆无人机控制器(DJI Lightbridge)。
+- [TrueOS](https://www.trueos.org/trueos-pico/) - 基于FreeBSD的瘦客户机解决方案。
+- [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - 家庭物联网自动化
+
+
 
 
 
@@ -72,6 +78,14 @@
 - [Raspberry Pi Emulator](https://sourceforge.net/projects/raspberrypiemulator/) - 树莓派模拟器 for Mac
 - [Raspberry Pi Emulator on Windows](https://xbu.me/emulating-raspberry-pi-with-qemu/) - 树莓派模拟器 for Windows
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 一个简单的桥接工具，网线转无线
+- [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - 使用wifi设置生成wpa_supplicant.conf文件的简单工具
+- [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - QEMU(虚拟机管理)网络配置工具
+- [RaspAP-webgui](https://github.com/billz/raspap-webgui) - 一个简单的响应式Web界面，用于控制Raspberry Pi上的wifi，hostapd和相关服务
+- [HealthyPi](https://github.com/Protocentral/HealthyPi) - HAT其中包括重要的健康监测，如心电图，呼吸，脉搏血氧饱和度以及可选的血压和体温感测。
+- [PoisonTap](https://github.com/samyk/poisontap) - 通过USB利用锁定/密码保护的计算机，丢弃持续的基于WebSocket的后门，暴露内部路由器，并使用Raspberry Pi Zero＆Node.js虹吸cookies。
+- [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1是基于低成本Raspberry Pi Zero或Raspberry Pi Zero W（HID后门所需）的高度可定制的USB攻击平台。
+- [CusDeb](https://cusdeb.com/en/) - 用于创建具有特定软件包的自定义图像的Web UI。
+
 
 <h2 id="projects">项目</h2>
 
@@ -109,6 +123,7 @@
 
 - CF-WU810N - 芯片：RTL-8818eus（免驱）
 - TP-LINK-WN725N - 芯片：RTL-8818eu（免驱）
+- EDUP EP-AC1618 (5G) - 芯片：RTL-8812au（[驱动](https://github.com/abperiasamy/rtl8812AU_8821AU_linux)）
 
 <h2 id="resources">资源</h2>
 
