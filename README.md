@@ -60,6 +60,7 @@
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) - 一个WifiBroadcast扩展，可替代大疆无人机控制器(DJI Lightbridge)。
 - [TrueOS](https://www.trueos.org/trueos-pico/) - 基于FreeBSD的瘦客户机解决方案。
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - 家庭物联网自动化
+- [Pikvm](https://github.com/pikvm/pikvm) - 使用树莓派远程 [ipkvm](https://baike.sogou.com/v63384142.htm?fromTitle=IP%20KVM&ch=frombaikevr) 控制电脑
 
 
 
